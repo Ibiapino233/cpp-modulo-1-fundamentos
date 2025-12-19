@@ -4,7 +4,6 @@ Este repositório reúne meus estudos iniciais em C++, com foco em fundamentos d
 O módulo é composto por exercícios progressivos e um projeto final integrador, desenvolvido como um pequeno sistema de linha de comando.
 
 ## Conteúdo
-
 --- Exercícios sobre:
 -Entrada e saída de dados (cin, cout)
 -Operadores aritméticos, relacionais e lógicos
@@ -14,7 +13,7 @@ O módulo é composto por exercícios progressivos e um projeto final integrador
 -Organização modular com headers (.h) e source files (.cpp)
 --- Projeto final:
 - Menu interativo
--Menu interativo em loop
+- -Menu interativo em loop
 -Separação clara entre main e lógica do sistema
 -Uso de funções para cada operação
 -Tratamento de erros (ex: divisão por zero)
@@ -30,6 +29,7 @@ O módulo é composto por exercícios progressivos e um projeto final integrador
 
 Modulo1_Fundamentos/
 ├── modulo_01/
+
 │   ├── exercicios/
 │   │   ├── 01_HelloWorld.cpp / .h
 │   │   ├── 02_EntradaSaida.cpp / .h
@@ -49,7 +49,9 @@ Modulo1_Fundamentos/
 │       ├── ProjetoFinal_MOD_01.cpp
 │       └── ProjetoFinal_MOD_01.h
 │
+
 ├── main.cpp
+
 ├── CMakeLists.txt
 └── .gitignore
 
