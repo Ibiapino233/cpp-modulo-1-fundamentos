@@ -21,8 +21,13 @@ Este repositório contém meus estudos iniciais em C++.
 - ## Estrutura do projeto
 
 Modulo1_Fundamentos/
+
 ├── CMakeLists.txt
+
 ├── main.cpp
+
 ├── modulo_01/
+
 │   ├── exercicios/
+
 │   └── projeto_final/
