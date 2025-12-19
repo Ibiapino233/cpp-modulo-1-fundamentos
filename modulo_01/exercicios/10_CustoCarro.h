@@ -1,0 +1,10 @@
+//
+// Created by stalin on 17/12/2025.
+//
+
+#ifndef MODULO1_FUNDAMENTOS__10_CUSTOCARRO_H
+#define MODULO1_FUNDAMENTOS__10_CUSTOCARRO_H
+
+void custoCarro10();
+
+#endif //MODULO1_FUNDAMENTOS__10_CUSTOCARRO_H

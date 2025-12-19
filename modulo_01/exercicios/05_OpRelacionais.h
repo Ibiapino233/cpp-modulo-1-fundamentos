@@ -1,0 +1,8 @@
+//
+// Created by stalin on 16/12/2025.
+//
+
+#ifndef MODULO1_FUNDAMENTOS__05_OPRELACIONAIS_H
+#define MODULO1_FUNDAMENTOS__05_OPRELACIONAIS_H
+void relacionais ();
+#endif //MODULO1_FUNDAMENTOS__05_OPRELACIONAIS_H

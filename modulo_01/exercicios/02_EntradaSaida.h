@@ -1,0 +1,8 @@
+//
+// Created by stalin on 14/12/2025.
+//
+
+#ifndef MODULO1_FUNDAMENTOS__02_ENTRADASAIDA_H
+#define MODULO1_FUNDAMENTOS__02_ENTRADASAIDA_H
+void entradaSaida();
+#endif //MODULO1_FUNDAMENTOS__02_ENTRADASAIDA_H

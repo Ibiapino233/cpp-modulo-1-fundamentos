@@ -1,0 +1,10 @@
+//
+// Created by stalin on 17/12/2025.
+//
+
+#ifndef MODULO1_FUNDAMENTOS__07_IDADEEMDIAS_H
+#define MODULO1_FUNDAMENTOS__07_IDADEEMDIAS_H
+
+void IdadeEmDias();
+
+#endif //MODULO1_FUNDAMENTOS__07_IDADEEMDIAS_H

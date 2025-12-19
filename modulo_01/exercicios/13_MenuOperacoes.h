@@ -1,0 +1,9 @@
+//
+// Created by stalin on 17/12/2025.
+
+#ifndef MODULO1_FUNDAMENTOS__13_MENUOPERACOES_H
+#define MODULO1_FUNDAMENTOS__13_MENUOPERACOES_H
+
+void menuOperacoes();
+
+#endif //MODULO1_FUNDAMENTOS__13_MENUOPERACOES_H

@@ -1,0 +1,8 @@
+//
+// Created by stalin on 16/12/2025.
+//
+
+#ifndef MODULO1_FUNDAMENTOS__06_OPLOGICOS_H
+#define MODULO1_FUNDAMENTOS__06_OPLOGICOS_H
+void logicos();
+#endif //MODULO1_FUNDAMENTOS__06_OPLOGICOS_H
