@@ -1,4 +1,4 @@
-# C++ – Módulo 1: Fundamentos
+# C++  Módulo 1: Fundamentos
 
 Este repositório contém meus estudos iniciais em C++.
 
